@@ -1,0 +1,15 @@
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DARREN\Documents\Computing\AgeCalculator\bin\Debug\net7.0\AgeCalculator.exe
+C:\Users\DARREN\Documents\Computing\AgeCalculator\bin\Debug\net7.0\AgeCalculator.deps.json
+C:\Users\DARREN\Documents\Computing\AgeCalculator\bin\Debug\net7.0\AgeCalculator.runtimeconfig.json
+C:\Users\DARREN\Documents\Computing\AgeCalculator\bin\Debug\net7.0\AgeCalculator.dll
+C:\Users\DARREN\Documents\Computing\AgeCalculator\bin\Debug\net7.0\AgeCalculator.pdb
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.dll
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\refint\AgeCalculator.dll
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.pdb
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\DARREN\Documents\Computing\AgeCalculator\obj\Debug\net7.0\ref\AgeCalculator.dll
